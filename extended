@@ -1,0 +1,35 @@
+{
+    "verification":"verification-string-here-for-pool-claim",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://www.dotare.io/wp-content/uploads/2022/11/Dotare-Logo-Cexploerer-Favicon.png",
+        "url_png_logo": "https://www.dotare.io/wp-content/uploads/2022/11/Dotare-Logo-Cexplorer-Large.png",
+        "location": "New York, United States",
+        "social": {
+            "twitter_handle": "dotareio",
+            "telegram_handle": "",
+            "facebook_handle": "dotareio",
+            "youtube_handle": "@dotare",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "dotareio",
+            "ada_handle": "$dotare"
+        },
+        "company": {
+            "name": "Dotare",
+            "addr": "",
+            "city": "Huntington",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Passionate Plutus & Marlowe Pioneers",
+            "server": "Scalable AWS Stack: 1 Block Producer, 2 Relays",
+            "company": "Dotare is focused on serving the Cardano community that brought the founders together with the Dotare [DOTAR] stake pool."
+        }
+    }
+}
+
