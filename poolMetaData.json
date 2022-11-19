@@ -2,5 +2,6 @@
 "name": "Dotare",
 "description": "Enjoy low fees, robust and secure infrastructure, all managed by passionate Plutus Pioneers at Dotare. Delegating to earn staking rewards contributes directly to the security of the Cardano blockchain and supports the inherent value of YOUR Ada!",
 "ticker": "DOTAR",
-"homepage": "https://dotare.io"
+"homepage": "https://dotare.io",
+"extended": "https://raw.githubusercontent.com/dotareio/DOTAR/main/extended.json"
 }
