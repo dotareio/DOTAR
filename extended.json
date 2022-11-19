@@ -1,6 +1,5 @@
 {
     "verification":"verification-string-here-for-pool-claim",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "https://www.dotare.io/wp-content/uploads/2022/11/Dotare-Logo-Cexploerer-Favicon.png",
         "url_png_logo": "https://www.dotare.io/wp-content/uploads/2022/11/Dotare-Logo-Cexplorer-Large.png",
